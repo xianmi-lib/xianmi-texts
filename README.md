@@ -34,7 +34,7 @@ zh-tw/p05/   繁体（与简体镜像同构）
 
 ## 随喜赞助
 
-显密文库没有商业收入，域名、服务器与内容整理的开销由维护者自筹。若您愿以随喜之心支持本站运转，可扫码（手机上点图亦可）：
+显密文库没有商业收入，域名、服务器与内容整理的开销由维护者自筹。若您愿以随喜之心支持本站运转，可扫码（手机上点图亦可；海外读者可用 [Ko-fi](https://ko-fi.com/xianmi)）：
 
 <a href="images/donate-wechat.png"><img src="images/donate-wechat.png" alt="微信收款码" width="240"></a>
 <a href="https://qr.alipay.com/fkx10473i6wnceezlxyzfa0"><img src="images/donate-alipay.jpg" alt="支付宝收款码" width="240"></a>

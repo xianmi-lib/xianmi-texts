@@ -34,7 +34,11 @@ zh-tw/p05/   繁體（與簡體鏡像同構）
 
 ## 隨喜贊助
 
-顯密文庫沒有商業收入，域名、伺服器與內容整理的開銷由維護者自籌。若您願以隨喜之心支持本站運轉，可掃碼（手機上點圖亦可）：
+顯密文庫沒有商業收入，域名、伺服器與內容整理的開銷由維護者自籌。若您願以隨喜之心支持本站運轉：
+
+**Ko-fi（台灣及海外讀者常用）**：[ko-fi.com/xianmi](https://ko-fi.com/xianmi)（支援多種付款方式）
+
+**微信 / 支付寶（大陸讀者常用）**，掃碼隨喜（手機上點圖亦可）：
 
 <a href="images/donate-wechat.png"><img src="images/donate-wechat.png" alt="微信收款碼" width="240"></a>
 <a href="https://qr.alipay.com/fkx10473i6wnceezlxyzfa0"><img src="images/donate-alipay.jpg" alt="支付寶收款碼" width="240"></a>
