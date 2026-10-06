@@ -1,5 +1,7 @@
 # 协作指南（Contributing）
 
+**语言 / Language**：简体中文 | [繁體中文](CONTRIBUTING.zh-TW.md)
+
 感谢参与显密文库公开文本仓的勘误协作。
 
 ## 提 PR 前请读
@@ -25,9 +27,6 @@
 - 版权/权利相关：见 [README](README.md) 许可节，走 <https://www.xianmi.co/contribute/>。
 - 其他问题：开 issue。
 
----
+## English Summary
 
-## 協作指南（繁體簡略版）
-
-- 只對 `zh-cn` 提 PR；繁體為機器轉繁，錯字請開 issue。
-- 維護者合併 PR 後必須把改動回植主內容倉，再由主倉同步出倉，否則下次同步會被覆蓋。
+Contributions: please submit PRs against `zh-cn` (Simplified Chinese) only — `zh-tw` (Traditional) is machine-converted via OpenCC plus errata rules, and direct edits there conflict with the conversion pipeline. For Traditional typos, open an issue instead. Maintainers: after merging a community PR, the change **must be back-ported to the private master repo** before the next sync run, otherwise it will be silently overwritten. Details are in the Chinese text above.

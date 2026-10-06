@@ -1,5 +1,7 @@
 # 显密文库 · 公开文本仓（xianmi-texts）
 
+**语言 / Language**：简体中文 | [繁體中文](README.zh-TW.md)
+
 [显密文库](https://www.xianmi.co/) 的公开文本仓库，作为社区协作入口，从少到多逐步开放。
 
 **首发收录：`p05` 佛教经典 · 现代汉语译文（全量）**，后续将逐步开放更多部类。
@@ -39,21 +41,6 @@ zh-tw/p05/   繁体（与简体镜像同构）
 
 手机上点支付宝图可直接唤起支付宝付款；微信图点开后长按识别，或保存图片后用扫一扫从相册识别。更多方式见主站[赞助页](https://www.xianmi.co/contribute/)。
 
----
+## English Summary
 
-## 顯密文庫 · 公開文本倉（繁體說明）
-
-本倉為[顯密文庫](https://www.xianmi.co/)之公開文本倉庫，首發收錄 `p05` 佛教經典 · 現代漢語譯文全量，後續逐步開放更多部類。
-
-- 佛經原文屬公有領域；本倉整理、校勘與現代漢語譯文部分以 CC0 1.0 釋出。
-- `zh-tw` 為 OpenCC 機器轉繁 + 勘誤規則產物，文本以簡體為準；繁體錯字請開 issue，勿直接提 PR。
-- 版權聯繫：<https://www.xianmi.co/contribute/>，收到權利方通知後儘快處理。
-
-### 隨喜贊助
-
-顯密文庫沒有商業收入，域名、伺服器與內容整理的開銷由維護者自籌。若您願以隨喜之心支持本站運轉，可掃碼（手機上點圖亦可）：
-
-<a href="images/donate-wechat.png"><img src="images/donate-wechat.png" alt="微信收款碼" width="240"></a>
-<a href="https://qr.alipay.com/fkx10473i6wnceezlxyzfa0"><img src="images/donate-alipay.jpg" alt="支付寶收款碼" width="240"></a>
-
-手機上點支付寶圖可直接喚起支付寶付款；微信圖點開後長按識別，或保存圖片後用掃一掃從相簿識別。更多方式見主站[贊助頁](https://www.xianmi.co/zh-tw/contribute/)。
+**xianmi-texts** is the public text repository of [Xianmi Library](https://www.xianmi.co/) (显密文库), a free Chinese Buddhist digital library. Debut collection: `p05` Buddhist Sutras in Modern Chinese Translation (complete, 1,819 files). Original sutra texts are in the public domain; our editorial work, collation, and modern Chinese translations are released under [CC0 1.0](LICENSE). Content is in Chinese: `zh-cn/` (Simplified) is canonical, and `zh-tw/` (Traditional) is machine-converted — please submit PRs against `zh-cn` only. See the Chinese text above for details, or open an issue.
