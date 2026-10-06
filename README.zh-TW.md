@@ -17,6 +17,8 @@ zh-tw/p05/   繁體（與簡體鏡像同構）
 
 ## 許可與版權（License）
 
+<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant"><img src="images/cc0.png" alt="CC0 1.0 公有領域貢獻" width="88" height="31"></a>
+
 - **佛經原文**屬公有領域（public domain）。
 - 本倉的**整理、校勘與現代漢語譯文部分**以 [CC0 1.0 Universal](LICENSE) 釋出，可自由使用（含商用），無需署名。
 - 第三方權利：若部分內容涉及您的權利，請通過 <https://www.xianmi.co/zh-tw/contribute/> 與我們聯繫，我們會在收到權利方通知後**儘快處理**。
