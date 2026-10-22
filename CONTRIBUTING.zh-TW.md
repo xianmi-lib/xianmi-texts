@@ -10,17 +10,17 @@
 - PR 請寫明：文件路徑、原文位置、修改依據（底本/刻本/出處連結優先）。
 - 不接受大規模機器改寫類 PR（重排、批量標點轉換等）；此類需求請先開 issue 討論。
 
-## 維護者注意：PR 合併後必須回植主倉（關鍵閉環）
+## 維護者注意：PR 合併後必須回植上游內容源（關鍵閉環）
 
-本倉是**顯密文庫主內容倉（私有）→ 本倉**的單向鏡像：內容更新由同步腳本以 `rsync --delete` 鏡像出倉。**若合併的 PR 改動未回植主倉，下次同步即被沖掉。**
+本倉內容不是在此直接維護的：文章正文維護於上游內容源，本倉由其定期發佈。**若合併的 PR 改動未回植上游內容源，下次發佈會把本倉的改動覆蓋掉。**
 
 正確流程：
 
-1. 在本倉合併社區 PR；
-2. **立即把 PR 改動回植到主內容倉（goodweb）對應文件**（cherry-pick 或手工），並走完主倉驗證與提交；
-3. 由主倉側運行同步腳本重新出倉（`tools/sync-texts.sh`）。
+1. 在本倉合併社群 PR；
+2. 維護方把 PR 改動回植到上游內容源的對應檔案，並完成上游驗證；
+3. 由維護方重新發佈到本倉，使兩側一致。
 
-嚴禁：直接在本倉改完不通知主倉側——改動會在下次同步時靜默丟失。
+請勿只在本倉改動而不回植——此類改動會在下次發佈時遺失。
 
 ## 認領與聯繫
 
@@ -29,4 +29,4 @@
 
 ## English Summary
 
-Contributions: please submit PRs against `zh-cn` (Simplified Chinese) only — `zh-tw` (Traditional) is machine-converted via OpenCC plus errata rules, and direct edits there conflict with the conversion pipeline. For Traditional typos, open an issue instead. Maintainers: after merging a community PR, the change **must be back-ported to the private master repo** before the next sync run, otherwise it will be silently overwritten. Details are in the Chinese text above.
+Contributions: please submit PRs against `zh-cn` (Simplified Chinese) only — `zh-tw` (Traditional) is machine-converted via OpenCC plus errata rules, and direct edits there conflict with the conversion pipeline. For Traditional typos, open an issue instead. Maintainers: after merging a community PR, the change **must be back-ported to the upstream content source** before the next publication, otherwise it will be overwritten by the next publish. Details are in the Chinese text above.
