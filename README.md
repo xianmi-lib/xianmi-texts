@@ -37,3 +37,7 @@ zh-tw/   繁体（与简体镜像同构）
 - 本仓收录文本均为**公有领域**（public domain）典籍：古代译本、古代注疏、僧传与文集，可自由使用，无任何限制。
 - 本站的**整理、校勘与内容提要**等加工成果以 [CC0 1.0 Universal](LICENSE) 释出，同样可自由使用（含商用），无需署名。
 - 第三方权利：若内容涉及您的权利，请通过 <https://www.xianmi.co/contribute/> 与我们联系，我们会在核实后尽快处理。
+
+## English Summary
+
+**xianmi-texts** is the public text repository of [Xianmi Library](https://www.xianmi.co/) (显密文库), a free Chinese Buddhist digital library. Debut collection: public-domain Buddhist canon and classical commentarial works — 2,029 texts per side, mirrored in Simplified (`zh-cn/`, canonical) and Traditional (`zh-tw/`) Chinese. All included texts are in the public domain; our editorial layer (organization, collation, synopses) is released under [CC0 1.0](LICENSE). Traditional files are machine-converted from the Simplified side — please submit PRs against `zh-cn` only. See the Chinese text above for details, or open an issue.
